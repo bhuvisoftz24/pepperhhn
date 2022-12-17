@@ -16,6 +16,7 @@ public class webfragment extends Fragment {
 
     WebView webView;
 
+
     @SuppressLint("SetJavaScriptEnabled")
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
